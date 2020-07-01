@@ -1,0 +1,116 @@
+body{
+    font-family: 'Bitter', serif;
+    margin: 0px;
+}
+.pink-highlight{
+    color:hsl(332, 81%, 51%)
+    
+}
+h1{
+    font-size: 50px;
+    text-align: left;
+
+}
+h2{
+    font-size: xx-large;
+}
+h3{
+    font-size: x-large;
+}
+
+p{
+    color: dimgray;
+    font-size: large;
+    text-align: justify;
+    line-height: 30px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 20px;
+    padding-left: 10px;
+}
+.half-width img{
+    width: 60%;
+}
+.top-area{
+    background-image: url("images/header-bg.png");
+    
+    margin-left: 100px;
+    
+}  
+.link-button{
+    text-decoration: none;
+    background-color:hsl(332, 81%, 51%) ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+section{
+    height: 600px;
+    margin: 20px;
+    padding: bottom 180px;
+}
+.biography{
+    background-image: url("images/biography-bg.png");
+    
+    
+}
+
+.different{
+    margin-top: 100px;
+}
+
+.latest{
+    background-image: url("images/latest-work-bg.png");
+    
+}
+.work{
+    height: 250px;
+    width: 350px;
+    margin: 20px;
+    padding: 20px;
+    float: left;
+}
+#black{
+    color: black;
+}
+.special{
+    text-align: center;
+}
+.end-button{
+    height: 50px; 
+    width: 500px;
+    margin-left: 360px;
+    margin-right: 300px;
+    margin-top: 50px;
+    padding: 50px;
+    background-color:hsl(332, 81%, 51%) ;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+
+    
+}
+.highlight{
+    font-size: xx-large;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+
+}
+.client{
+    background-image: url("images/footer-bg.png");
+    
+}
+.last{
+    text-align: center;
+    color: dimgray;
+}
+
+#Moccy{
+    margin-top: 60px;
+}
+
